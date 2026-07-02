@@ -1,2 +1,2 @@
-## GetHired - Online Job Portal / Application Service
+## GetHired - Job Portal / Application Service
 
